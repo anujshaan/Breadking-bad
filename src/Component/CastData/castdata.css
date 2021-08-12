@@ -1,0 +1,43 @@
+.castDataWrapper{
+width: 80%;
+height: 80vh;
+background-color: #007200;
+margin: auto;
+margin-top: 4rem;
+color: #fff;
+border-radius: 10px;
+padding: 1rem 1rem;
+overflow: auto;
+}
+table{
+    width: 100%;
+}
+table th{
+    font-size: 28px;
+    color: #51ff00;
+    font-weight: 700;
+}
+
+table td{
+    padding: 1rem 0;
+    font-size: 18px;
+    text-align: center;
+}
+::-webkit-scrollbar-track
+{
+	border: 5px solid white;
+	
+	background-color: #b2bec3;
+}
+
+::-webkit-scrollbar
+{
+	width: 15px;
+	background-color: #dfe6e9;
+}
+
+::-webkit-scrollbar-thumb
+{
+	background-color: #6bee00;
+	border-radius: 10px;
+}
